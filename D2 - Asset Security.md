@@ -1,7 +1,7 @@
 # Asset Security
 
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
-[To next domain! - D3 - Security Architecture and Engineering]() <br />
+[To next domain! - D3 - Security Architecture and Engineering](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D3%20-%20Security%20Architecture%20and%20Engineering.md) <br />
 
 
 ### Identify and classify information and assets
@@ -27,4 +27,4 @@
 ### Establish information and asset handling requirements
 
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
-[To next domain! - D3 - Security Architecture and Engineering]() <br />
+[To next domain! - D3 - Security Architecture and Engineering](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D3%20-%20Security%20Architecture%20and%20Engineering.md) <br />
