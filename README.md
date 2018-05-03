@@ -3,21 +3,21 @@ This is study material for the 2018 CISSP Exam.  There are links below to my
 notes on each domain, information about the exam, and other study tools.
 
 # Domain Cheatsheet
-[Domain 1: Security and Risk Management](URL_to_wiki)
+[Domain 1: Security and Risk Management](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D1%20-%20Security%20and%20Risk%20Management.md)
 
-[Domain 2: Asset Security](URL_to_wiki)
+[Domain 2: Asset Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md)
 
-[Domain 3: Security Architecture and Engineering](URL_to_wiki)
+[Domain 3: Security Architecture and Engineering](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D3%20-%20Security%20Architecture%20and%20Engineering.md)
 
-[Domain 4: Communication and Network Security](URL_to_wiki)
+[Domain 4: Communication and Network Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D4%20-%20Communication%20and%20Network%20Security.md)
 
-[Domain 5: Identity and Access Management (IAM)](URL_to_wiki)
+[Domain 5: Identity and Access Management (IAM)](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D5%20-%20Identity%20and%20Access%20Management.md)
 
-[Domain 6: Security Assessment and Testing](URL_to_wiki)
+[Domain 6: Security Assessment and Testing](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D6%20-%20Security%20Assessment%20and%20Testing.md)
 
-[Domain 7: Security Operations](URL_to_wiki)
+[Domain 7: Security Operations](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D7%20-%20Security%20Operations.md)
 
-[Domain 8: Software Development Security](URL_to_wiki)
+[Domain 8: Software Development Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D8%20-%20Software%20Development%20Security.md)
 
 
 # About the exam:
