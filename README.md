@@ -1,4 +1,4 @@
-# CISSP
+# CISSP ![alt text](http://resources.infosecinstitute.com/wp-content/uploads/CISSP.jpg)
 This is study material for the 2018 CISSP Exam.  There are links below to my 
 notes on each domain, information about the exam, and other study tools.
 
