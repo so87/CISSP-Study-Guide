@@ -4,6 +4,26 @@
 [To next domain! - D2 - Asset Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md) <br />
 
 ### Understand and apply concepts of confidentiality, integrity and availability
+#### Definitions and examples
+* Confidentiality - Making sure the right people can access the material.  Data must be classified so the administrators knows exactly who should have access.  Users must Identify themselves, authenticate, and then be given authorization before having access.  Contents must be encrypted or restricted for users who don't do the above.
+  * End to End symetric encryption holds confidentiality because only users with a key can see the data
+  * File permissions only allow authorized users to view the contents
+* Integrity - Protected from changes
+  * Hashing
+  * Segregation of duties
+  * approval checkpoints (SDLC)
+  * RSA(uses HMC)
+  * IPSec
+* Availability - Information is available to users when they need it
+  * Not vulnerable to DOS
+  * Has backups and redundancy to ensure no downtime
+  
+#### How do they relate to each other?
+CIA TRIAD - You can't have maximum levels of everything
+<p align="center">
+  <img width="460" height="300" src="https://downgrade.org/wp-content/uploads/2006/10/figure2.gif">
+</p>
+
 
 ### Evaluate and apply security governance principles
 * Alignment of security function to business strategy, goals, mission, and objectives
