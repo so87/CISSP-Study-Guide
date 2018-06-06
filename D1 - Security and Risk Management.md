@@ -26,11 +26,17 @@ CIA TRIAD - You can't have maximum levels of everything
 
 
 ### Evaluate and apply security governance principles
+##### English please?? - These are just defined roles, and processes for each role, to make sure executive management is informed about IT decisions being made.  This makes sure that information is appropriately secured, communicated, documented, and budgeted for.  It's like a questionaire.  Look at ISO 27000 to get requimrents for a information security management system.
 * Alignment of security function to business strategy, goals, mission, and objectives
+  * Have to analyze cost of loss/thieft information, cost to impliment controls, and the benefit to organization by certain controls.
 * Organizational processes (e.g., acquisitions, divestitures, governance committees)
+  * if the business changes at all, security needs to be involved in that changing process. apply frameworks to those processes.
 * Organizational roles and responsibilities
+  * different job titles have to work with others and be aware of things.  each job has a checklist of things to be concerend about.  some positions will be reponsible for risk on certain decisions.
 * Security control frameworks
+  * the blue prints to how security in the organization is done.  ex. if you are going to label an area on a blueprint as a "bed room", it needs to meet certain requirements. certain frameworks need to be applied to your organization based off what you contain.
 * Due care/due diligence
+  *  legal perspective. What would a "reasonable person" due in the same circumstance if they were being responsible?
 
 ### Determine compliance requirements
 * Contractual, legal, industry standards, and regulatory requirements
