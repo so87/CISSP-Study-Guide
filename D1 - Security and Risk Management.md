@@ -39,9 +39,12 @@ CIA TRIAD - You can't have maximum levels of everything
   *  legal perspective. What would a "reasonable person" due in the same circumstance if they were being responsible?
 
 ### Determine compliance requirements
+Organizations operate in environments where laws, regulations, and compliance requirements must be met.  Want to handle peoples cred cards? - must meet certain requirements and impliment certain frameworks. Want to be a defense contractor? - same as before.
 * Contractual, legal, industry standards, and regulatory requirements
+  * one example is all federal agencies are required to ahere to FISMA. Gives list of requirements because they handle mission information as well as PIV.
 * Privacy requirements
-
+  * Mitre has a good framework for dealing with privacy.  You just need to identify what data you process and see if it applies in your TOGAF or other blueprint guidlines you are following.
+  
 ### Understand legal and regulatory issues that pertain to information security in a global context
 * Cyber crimes and data breaches
 * Licensing and intellectual property requirements
