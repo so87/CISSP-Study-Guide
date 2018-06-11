@@ -37,20 +37,33 @@ CIA TRIAD - You can't have maximum levels of everything
   * the blue prints to how security in the organization is done.  ex. if you are going to label an area on a blueprint as a "bed room", it needs to meet certain requirements. certain frameworks need to be applied to your organization based off what you contain.
 * Due care/due diligence
   *  legal perspective. What would a "reasonable person" due in the same circumstance if they were being responsible?
+##### Difference between Process/architecture/framework/standard?
+* Process:  A set up steps to accomplish a task.
+* Architecture: specifies when and where to apply security controls.  Describes interactions and roles
+* Framework: A set up processes with implimentation guidance
+* Standard:  A set of requirements, roles, and controls/frameworks to impliment
 
 ### Determine compliance requirements
+##### Governments are required to impliment NIST 800-53.  Private sector is required to implimented COBIT.  Many businesses end up implimenting part of each framework to meet its business objectives.
 Organizations operate in environments where laws, regulations, and compliance requirements must be met.  Want to handle peoples cred cards? - must meet certain requirements and impliment certain frameworks. Want to be a defense contractor? - same as before.
 * Contractual, legal, industry standards, and regulatory requirements
   * one example is all federal agencies are required to ahere to FISMA. Gives list of requirements because they handle mission information as well as PIV.
 * Privacy requirements
   * Mitre has a good framework for dealing with privacy.  You just need to identify what data you process and see if it applies in your TOGAF or other blueprint guidlines you are following.
-  
+
+
 ### Understand legal and regulatory issues that pertain to information security in a global context
 * Cyber crimes and data breaches
 * Licensing and intellectual property requirements
 * Import/export controls
 * Trans-border data flow
 * Privacy
+##### Difference between Criminal Law/Common Law/Private law/Civil Law/Federal Law/
+* Criminal Law: punished by jail, fine, or death
+* Common Law: jury makes decision. then judge decides punishment
+* Civil Law: never incarcerated or executed.  Have to reimburse the plaintiff
+* Private Law: deals with relations between individuals and institutions. Par of civil law
+* Federal Law: body of law consisting of a constitution, enacted laws, and the court decisions pertaining to them
 
 ### Understand, adhere to, and promote professional ethics
 * (ISC)² Code of Professional Ethics
