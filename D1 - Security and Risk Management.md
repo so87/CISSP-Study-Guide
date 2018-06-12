@@ -66,15 +66,19 @@ Organizations operate in environments where laws, regulations, and compliance re
 * Federal Law: body of law consisting of a constitution, enacted laws, and the court decisions pertaining to them
 
 ### Understand, adhere to, and promote professional ethics
-* (ISC)² Code of Professional Ethics
-* Organizational code of ethics
+* (ISC)² Code of Professional Ethics - be a nice boy or girl
+* Organizational code of ethics - basically that anything you invent/design/consult is for good. you do your due diligence
 
 ### Develop, document, and implement security policy, standards, procedures, and guidelines
-
+Examples below
+* Policy: write policy for people who use lab at work. no usb allow, need to take this training, etc etc
+* standards: FIPS 140-2 is a common cryptographic standard in the military. must do certain things to have your device certifed.
+* procedure: you are tasked with the job of writing a procedure for analyzing computers that may contain malware
+* guidlines: this is not mantatory and no penalties happen if not followed. ex. i give guidlines for how to configure SMB shares at work since there are no SMB STIGs we must follow.
 
 ### Identify, analyze, and prioritize Business Continuity (BC) requirements
 * Develop and document scope and plan
-* Business Impact Analysis (BIA)
+* Business Impact Analysis (BIA) - process to determine and evaluate the potential effects of an interruption to critical business operations as a result of a disaster, accident or emergency. If a function went down, could the rest of the business function? Could customers still function? Could customers still purchase things?
 
 ### Contribute to and enforce personnel security policies and procedures
 * Candidate screening and hiring
