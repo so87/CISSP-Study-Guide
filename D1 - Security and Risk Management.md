@@ -81,25 +81,30 @@ Examples below
 * Business Impact Analysis (BIA) - process to determine and evaluate the potential effects of an interruption to critical business operations as a result of a disaster, accident or emergency. If a function went down, could the rest of the business function? Could customers still function? Could customers still purchase things?
 
 ### Contribute to and enforce personnel security policies and procedures
-* Candidate screening and hiring
-* Employment agreements and policies
-* Onboarding and termination processes
-* Vendor, consultant, and contractor agreements and controls
-* Compliance policy requirements
-* Privacy policy requirements
+* Candidate screening and hiring - talk to references. background check. credit history. criminal history. education. drug testing. 
+* Employment agreements and policies - write policies that people can only use computers for work. NDA. mandatory vacations. 
+* Onboarding and termination processes - make sure people are given least privilege. take away access, badge, account, change passwords.
+* Vendor, consultant, and contractor agreements and controls - your business has security requirements when dealing business with them.  if their code is in yours, they must develop securely. their information systems that connect to yours must be hardened
+* Compliance policy requirements - PCI is a policy that makes sure you must follow various controls to deal with credit cards
+* Privacy policy requirements - FISMA regulates peoples PII info and that is appropriately controlled
 
 ### Understand and apply risk management concepts
-* Identify threats and vulnerabilities
-* Risk assessment/analysis
-* Risk response
-* Countermeasure selection and implementation
-* Applicable types of controls (e.g., preventive, detective, corrective)
-* Security Control Assessment (SCA)
-* Monitoring and measurement
-* Asset valuation
-* Reporting
-* Continuous improvement
-* Risk frameworks
+* Identify threats and vulnerabilities - NIST 800-30 defines threat sources. microsoft also has great threat model
+* Risk assessment/analysis - find all vulnerabilities and flaws in scope. prioritize them by level of effort to fix and the amount of risk of not fixing that.
+* Risk response - If you face risk, you can do one of the following things: avoid it, transfer it, mitigate it, or accept it
+* Countermeasure selection and implementation - If risk is identified, need to consider accountabilitiy, reliablility, dependencies, CIA, when implimenting a countermeasure. Think of solution to problem and other supplimental controls to help fix it. soemtimes you won't be able apply a patch to completely fix problem, so you will need some supplimental fixes (band aids)
+* Applicable types of controls (e.g., preventive, detective, corrective) - directive, deterrent, preventive, compensating, detective, corrective, recovery. a good plan usually contains most of the types of controls just listed. that is defense in depth
+* Security Control Assessment (SCA) - 
+* Monitoring and measurement - make sure problems, vulnerabilities, failures are monitored. make sure metrics are recorded that document hours spent to fix and recover. cost from failure.  for network, get IDS and log server. do bi-weekly analysis to determine information system failures and patterns
+* Asset valuation - conduct software and hardware inventories regularly and automatically
+* Reporting - document baseline. explain why something is a risk. how severe. provide a fix, supplimental fixes, level of effort to fix, and a mitigation for why this risk could potentially be accepted (if you think it should).
+* Continuous improvement - Six Sigma. record metrics on your processes. find bottlenecks. eliminate bottlenecks.
+* Risk frameworks - below is list of frameowkrs
+  * ISACA
+  * ISO 31000
+  * ISO 2009
+  * NIST RMF Framework
+  
 
 ### Understand and apply threat modeling concepts and methodologies
 * Threat modeling methodologies
