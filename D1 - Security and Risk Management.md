@@ -107,19 +107,19 @@ Examples below
   
 
 ### Understand and apply threat modeling concepts and methodologies
-* Threat modeling methodologies
-* Threat modeling concepts
+* Threat modeling methodologies - make scope, applicable attack vectors, vulnerabilities open, risks, and countermeasures. should result in architecture changes, remediation actions, and good data for a risk report
+* Threat modeling concepts - same as above
 
 ### Apply risk-based management concepts to the supply chain
-* Risks associated with hardware, software, and services
-* Third-party assessment and monitoring
-* Minimum security requirements
-* Service-level requirements
+* Risks associated with hardware, software, and services - look at past CVEs
+* Third-party assessment and monitoring - the third party solutions you use could have vulnerabilities or back doors
+* Minimum security requirements - decide on requirements for your product. those, and only those things will be delivered. very hard.
+* Service-level requirements - requirements for a service from the client viewpoint, defining detailed service level targets and mutual responsibilities
 
 ### Establish and maintain a security awareness, education, and training program
-* Methods and techniques to present awareness and training
-* Periodic content reviews
-* Program effectiveness evaluation
+* Methods and techniques to present awareness and training - need to always train people constantly in security awarness or it doesn't work. always echo it.  disaster recovery is always way more expensive.
+* Periodic content reviews - make sure as new responsibilities and processes arise that we have security training in mind for them. make sure we are being aware of current threats
+* Program effectiveness evaluation - track enforcement and enhancement of security initiatives. periodic walk throughs and quizes to make sure people are staying up to date
 
 
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
