@@ -36,15 +36,15 @@ Generally a framework is used to categorize the information system or business, 
 * Internet of Things (IoT) - embedded systems that do only set few things.  Smart TV, fridge, thermostat, etc.  often built on linux kernel, has libraries that alow basic functionality like ping, store data, and query APIs.
 
 ### Assess and mitigate vulnerabilities in web-based systems
-Types of code run in web browsers
+##### Types of code run in web browsers
   * Applets - small pieces of mobile code embedded in web browsers to display content. executables that are run locally. write them in java.
   * Java script - scripts that can be embedded in web pages to make your browser do certain things.  everyone uses java script
   * DOM/CSS - There are DOM/CSS vulnerabilities you have to watch out for. attackers can inject their own code here.
   * ActiveX - same as applets but use digital certificates instead of sandbox like java. microsoft only
-<br/>Want to fix?
+##### Want to fix?
   * Look at OWASP.  See if any of your web app is vulnerable of the things. scan it with OWASP ZAP.
   * Update hosting software.  use secure libraries. follow OWASP rules. use a static analysis tool. run OWASP zap on it. update web browser.
-<br/>Types of Vulns?
+##### Types of Vulns?
   * Web hosting software vulns
   * hard coded credentials
   * inpropper permissions and redirects
