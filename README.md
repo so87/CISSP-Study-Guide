@@ -2,7 +2,7 @@
 This is study material for the 2018 CISSP Exam.  There are links below to my 
 notes on each domain, information about the exam, and other study tools.
 
-# Domain Cheatsheet
+# Domain Study Guides and Notes
 [Domain 1: Security and Risk Management](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D1%20-%20Security%20and%20Risk%20Management.md)
 
 [Domain 2: Asset Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md)
