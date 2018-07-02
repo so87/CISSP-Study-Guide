@@ -37,18 +37,24 @@ Access is controled by setting up rules and procedures for access.  If you are g
 * Provisioning and deprovisioning
 
 ### Definition of Existing Services
-* SSO - 
-* Directory services - 
-* Active Directory - 
-* CA - 
-* LDAP - 
-* SAML - 
-* OAUTH - 
-* Kerberos - 
-* One time pad - 
-* RADIUS - 
-* TACACS - 
-* Biometrics - 
+what is it used for? what does it provide?
+* Directory services - allows an admin to configure and manage how identification, authentication, authorization, and access control take place within the network and on individual systems.
+* Active Directory - A database that is a directory service.  allows user access control functionality and network resources. like some users can only view certain files, use printer, etc
+* LDAP - a protocol used to query the directory services database.  this is how subjects and applications find out if they can AAA a user, because LDAP queries their database information.
+* Domain Controller - hosts Active Directory
+* CA - users don't trust each other, but they do trust certificate authority.  CA vouches for individuals identities by using digital certificates.
+* Samba - directory services for linux. Domain controller for linux  
+* SSO - subject may authenticate once, then access multiple systems.  Authenication, authorization, and accountabilitiy.
+* SAML - an XML standard that allows the exchange of authentication and authorization to be shared between security domains.  Ex, your business uses Gmail and SAML. when a user goes to login, they are directed to your SSO server, which has access and password rules.  SAML is the request and response to/from SSO server.  REST requests will exlicit an HTML, XML, or JSON response.  Example operations are GET,POST,PUT,DELETE
+* REST - Representation State Transfer.  an approach that uses HTTP protocol to access and manipulate text without keeping track of any data(or state)
+* SOAP - like REST but has security in mind.  Outlines how web service information is exchanged.  When requesting access, a SOAP body contains a SAML request or response inside of it
+* JSON - JavaScript Object Notation is a lightweight data format
+* OAUTH - open standard for authorization(not authentication) to third parties.  Like when you authenticate with facebook, you can then authorize it to go off and manage your photos. Facebook could access your photos until you tell it not to anymore
+* Kerberos - Authentication protocol.  works in client/server model. SSO for distributed environment. symmetric key encryption that doesn't send any passwords over the network.  has a session key.  has a key distribution center that holds all users keys.  a challenge packet is sent to user for their user name, and if they enter password right, the challenge is decrypted.  session keys are created for each session greated.
+* One time pad - can't be cracked. requireds a preshared key that is same size or longer than message being sent
+* RADIUS - provides client/server authentication and audits remote users.
+* TACACS - basically same as RADIUS but uses TCP.  Seems more secure than RADIUS.
+* Biometrics - a way to authenticate a user. won't match perfectly all the time, so if more restrict will have more false positives.
 
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
 [To next domain! - D6 - Security Assessment and Testing](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D6%20-%20Security%20Assessment%20and%20Testing.md) <br />
