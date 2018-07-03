@@ -20,21 +20,21 @@ Access is controled by setting up rules and procedures for access.  If you are g
 * Credential management systems - keeps passwords encrypted and safe from unauthorized access.  allows passwords services read permissions to the hashes that need to authenticate someones password
 
 ### Integrate identity as a third-party service
-* On-premise - 
-* Cloud - 
-* Federated - 
+* On-premise - generally most identifications with information systems are on premise
+* Cloud - Identity as a service (IDaaS)
+* Federated - doing SSO at a much larger scale. doing it across organizations
 
 ### Implement and manage authorization mechanisms
-* Role Based Access Control (RBAC)
-* Rule-based access control
-* Mandatory Access Control (MAC)
-* Discretionary Access Control (DAC)
-* Attribute Based Access Control (ABAC)
+* Role Based Access Control (RBAC) - define roles in your organization(nurse, janitor, IT, manager) and give them default permissions
+* Rule-based access control - series of rules, restrictions, and filters for accessing objects
+* Mandatory Access Control (MAC) - system-enforced based on a subject's clearance and object's labels
+* Discretionary Access Control (DAC) - give full control of objects they created or given access to
+* Attribute Based Access Control (ABAC) - "IF" "then" access control.  lots of policies combined together
 
 ### Manage the identity and access provisioning lifecycle
-* User access review
-* System account access review
-* Provisioning and deprovisioning
+* User access review - users can slowly keep gaining privileges over time. need to review them and take away when they are longer need those roles/permissions/resources.  This is authorization creep
+* System account access review - samething?
+* Provisioning and deprovisioning - need to have policies and guides in place to review people, give them permissions, and take them away after certain key events
 
 ### Definition of Existing Services
 what is it used for? what does it provide?
