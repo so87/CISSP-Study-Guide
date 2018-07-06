@@ -56,5 +56,6 @@ what is it used for? what does it provide?
 * TACACS - basically same as RADIUS but uses TCP.  Seems more secure than RADIUS.
 * Biometrics - a way to authenticate a user. won't match perfectly all the time, so if more restrict will have more false positives.
 
+
 [Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
 [To next domain! - D6 - Security Assessment and Testing](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D6%20-%20Security%20Assessment%20and%20Testing.md) <br />
