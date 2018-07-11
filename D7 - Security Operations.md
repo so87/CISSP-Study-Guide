@@ -25,17 +25,17 @@ I've never seen these questions asked in practice tests so I wouldn't worry abou
 * Egress monitoring - monitoring traffic leaving your network
 
 # Securely provisioning resources
-* Asset inventory - 
-* Asset management - 
-* Configuration management - 
+* Asset inventory - tracking: hardware, software, programs installed
+* Asset management - updating software, replacing hardware, adding functionality, removing functionality, tracking their location
+* Configuration management - process of establishing and maintaining consistent baselines of all of the systems.  get baselines of everything
 
 # Understand and apply foundational security operations concepts
-* Need-to-know/least privileges
-* Separation of duties and responsibilities
-* Privileged account management
-* Job rotation
-* Information lifecycle
-* Service Level Agreements (SLA)
+* Need-to-know/least privileges - A user should have a need to know to access particular resources, and least privilege should be implemented to ensure she only accesses the resources she has a need to know.
+* Separation of duties and responsibilities - Separation of duties is put into place to ensure that one entity cannot carry out a critical task alone.
+* Privileged account management - privilege kreep tends to happen over time. need to ensure there is great justification always to have administrative privileges.  administrative actions are logged.
+* Job rotation - Rotation of duties enables a company to have more than one person trained in a position and can uncover fraudulent activities
+* Information lifecycle - flow of information. overtime information becomes less useful and less sensitive. if someone stole your credit card info for your current one it would be bad, but one you had 15 years ago wouldn't really matter that much.
+* Service Level Agreements (SLA) - helps decide what type of availability technology is appropriate.
 
 # Apply resource protection techniques
 * Media management
