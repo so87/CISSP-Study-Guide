@@ -38,17 +38,18 @@ I've never seen these questions asked in practice tests so I wouldn't worry abou
 * Service Level Agreements (SLA) - helps decide what type of availability technology is appropriate.
 
 # Apply resource protection techniques
+Apply deterrents, monitoring, and protectin to keep assets undamaged and unstolen.  Put in GPS tracking, bag inspections, and scanners
 * Media management
 * Hardware and software asset management
 
 ### Conduct incident management
-* Detection
-* Response
-* Mitigation
-* Reporting
-* Recovery
-* Remediation
-* Lessons learned
+* Detection - most important step is to realize that there is a problem.  Must have a machine analyzing network, as well as a person to filter false positives.
+* Response - need to determine an appropriate response.  analyize all of the material before making a decision
+* Mitigation - contain the incident.  act on the situation to reduce damage and to keep the situation in a manageable state
+* Reporting - summary of incident, indicators, related incidents, actions taken, chain of custody, impact assessment, identity, and next steps to be taken
+* Recovery - trying to get the asset to a known good state
+* Remediation - need to make sure attack or failure is not successful again. patch the issue, and figure out if this could happen again in future
+* Lessons learned - what happened, what did we learn, any mistakes, what was good, can we do better next time, is there a good plan in place to deal with this in the future?
 
 ### Operate and maintain detective and preventative measures
 * Firewalls
