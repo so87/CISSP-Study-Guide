@@ -3,6 +3,14 @@
 [Back to Home Page](https://github.com/so87/CISSP-Study-Guide) <br />
 
 ### Understand and integrate security in the Software Development Life Cycle (SDLC)
+0. Feasibility
+1. Project initialization
+2. Requirements
+3. Design
+4. Develop
+5. Test / Assess
+6. Operate / Maintain
+7. Dispose / Retire
 * Development methodologies - Waterfall, Sashim, Agile Software Dev
 * Maturity models - evaluating and improving the software development process
 * Operation and maintenance - the system is modified by the addition of hardware and software and by other events
