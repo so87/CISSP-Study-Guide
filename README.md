@@ -1,6 +1,8 @@
 ![alt text](https://static1.squarespace.com/static/5606c039e4b0392b97642a02/568c23eebfe873997304f37e/57005e4101dbae8fc9b54c3c/1505756241062/cissp-logo-4lines.jpg?format=500w) <br />
 This is study material for the 2018 CISSP Exam.  There are links below to my 
 notes on each domain, information about the exam, and other study tools.
+* Like this repository?  Star it!  Helps get this out to other people!
+* Want to contribute? Something incorrect?  Make a change and push it back to me!
 
 # Domain Study Guides and Notes
 [Domain 1: Security and Risk Management](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D1%20-%20Security%20and%20Risk%20Management.md)
@@ -29,6 +31,7 @@ All domains 10-15% of score <br />
 [Official Information](https://www.isc2.org/Certifications/-/media/CC72396FD9F34D3AAF073BF2AADB185C.ashx)
 
 # Study Tools:
+[General Tips](https://github.com/so87/CISSP-Study-Guide/blob/master/General%20Tips.md)
 [Free Government Training](https://fedvte.usalearning.gov/) <br />
 [Book](https://www.amazon.com/CISSP-All-One-Guide-Seventh/dp/0071849270/ref=sr_1_6?s=books&ie=UTF8&qid=1525371721&sr=1-6&keywords=cissp) <br />
 [Free Videos](https://www.youtube.com/watch?v=JWqd_qaR81g&list=PLEiEAq2VkUUId6PKW0fpJdBRJO5MFQ8VM) <br />
