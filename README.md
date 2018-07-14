@@ -34,7 +34,8 @@ All domains 10-15% of score <br />
 [General Tips](https://github.com/so87/CISSP-Study-Guide/blob/master/General%20Tips.md)<br />
 [Free Government Training](https://fedvte.usalearning.gov/) <br />
 [Book](https://www.amazon.com/CISSP-All-One-Guide-Seventh/dp/0071849270/ref=sr_1_6?s=books&ie=UTF8&qid=1525371721&sr=1-6&keywords=cissp) <br />
-[Free Videos](https://www.youtube.com/watch?v=JWqd_qaR81g&list=PLEiEAq2VkUUId6PKW0fpJdBRJO5MFQ8VM) <br />
+[Video Course(cybrary)](https://www.cybrary.it/course/cissp/) <br />
+[More Free Videos](https://www.youtube.com/watch?v=JWqd_qaR81g&list=PLEiEAq2VkUUId6PKW0fpJdBRJO5MFQ8VM) <br />
 [Video Questions](https://www.youtube.com/watch?v=JywLANSd-1E&list=PLfuKjbmP_JpVtQSl9AL7PPIxrim6K8q0r) <br />
 [Flash cards](https://quizlet.com/2519918/cissp-practice-flash-cards/) <br />
 [Quizes and Tests](https://www.amazon.com/CISSP-Official-ISC-Practice-Tests/dp/1119252288) <br />
