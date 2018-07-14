@@ -31,7 +31,7 @@ All domains 10-15% of score <br />
 [Official Information](https://www.isc2.org/Certifications/-/media/CC72396FD9F34D3AAF073BF2AADB185C.ashx)
 
 # Study Tools:
-[General Tips](https://github.com/so87/CISSP-Study-Guide/blob/master/General%20Tips.md)
+[General Tips](https://github.com/so87/CISSP-Study-Guide/blob/master/General%20Tips.md)<br />
 [Free Government Training](https://fedvte.usalearning.gov/) <br />
 [Book](https://www.amazon.com/CISSP-All-One-Guide-Seventh/dp/0071849270/ref=sr_1_6?s=books&ie=UTF8&qid=1525371721&sr=1-6&keywords=cissp) <br />
 [Free Videos](https://www.youtube.com/watch?v=JWqd_qaR81g&list=PLEiEAq2VkUUId6PKW0fpJdBRJO5MFQ8VM) <br />
