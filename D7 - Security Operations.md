@@ -9,7 +9,6 @@ This is pretty generic.  Make sure you confirm something is a problem before tak
 * Investigative techniques
 * Digital forensics tools, tactics, and procedures
 
-
 # Understand requirements for investigation types
 I've never seen these questions asked in practice tests so I wouldn't worry about them.  They are also not covered in the 2 different CISSP books I have...
 * Administrative 
