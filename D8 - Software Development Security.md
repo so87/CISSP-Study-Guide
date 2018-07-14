@@ -1,6 +1,6 @@
 # Software Development Security
 
-[Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
+[Back to Home Page](https://github.com/so87/CISSP-Study-Guide) <br />
 
 ### Understand and integrate security in the Software Development Life Cycle (SDLC)
 * Development methodologies
@@ -27,4 +27,4 @@
 * Secure coding practices
 
 
-[Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
+[Back to Home Page](https://github.com/so87/CISSP-Study-Guide) <br />
