@@ -21,7 +21,7 @@ notes on each domain, information about the exam, and other study tools.
 
 [Domain 8: Software Development Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D8%20-%20Software%20Development%20Security.md)
 
-[Another great study guide with definitions and pictures](https://github.com/so87/CISSP-Study-Guide/blob/master/StudyNotes.pdf) Thanks Scott Gibsons for sharing!
+[Another great study guide with definitions and pictures](https://github.com/so87/CISSP-Study-Guide/blob/master/StudyNotes.pdf) Thanks Scott Gibbsons for sharing!
 
 # About the exam:
 Need 5 years expierence for certification.  Get associate if less than that.<br />
@@ -41,4 +41,5 @@ All domains 10-15% of score <br />
 [Flash cards](https://quizlet.com/2519918/cissp-practice-flash-cards/) <br />
 [Quizes and Tests](https://www.amazon.com/CISSP-Official-ISC-Practice-Tests/dp/1119252288) <br />
 [Review on Exam](https://www.youtube.com/watch?v=eLYbFtS7G9E) <br />
+[Learning how to learn.](https://www.google.com/aclk?sa=L&ai=DChcSEwjJqOC4wKPcAhUKqGkKHSyRBY4YABABGgJpcQ&sig=AOD64_0f8CoxujtRp2ubns9y5byhXZFkHQ&ctype=5&q=&ved=0ahUKEwiB89u4wKPcAhUQQ6wKHcP6BRIQwzwICQ&adurl=) If you are going to spend 200 hours learning you might as well take 10 to do it right? 
 
