@@ -21,6 +21,7 @@ notes on each domain, information about the exam, and other study tools.
 
 [Domain 8: Software Development Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D8%20-%20Software%20Development%20Security.md)
 
+[Another great study guide with definitions and pictures](https://github.com/so87/CISSP-Study-Guide/blob/master/StudyNotes.pdf) Thanks Scott Gibsons for sharing!
 
 # About the exam:
 Need 5 years expierence for certification.  Get associate if less than that.<br />
