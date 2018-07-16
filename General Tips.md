@@ -44,3 +44,6 @@ repeat
 
 ## Speed
 Take practices tests and time yourself. You need to take your time and not have to worry about rushing.  You must be focused only on answering the questions.  If you are taking too long on your practice tests, then adjust yourself.  You are also not going to know several test questions, so do your best, eliminate as many as you can, and move on.
+
+## Failure
+Now I'm not going to be your life coach, but your mind is capable of incredible things.  I believe that you can learn anything as long as you don't put up any mental barriers or excuses for yourself.  That being said, studying is hard, this test is hard, life is hard.  You must appreciate all that you do in life, do your best, and be happy with it.  Get back up and keep trying if this certification is your priority.  
