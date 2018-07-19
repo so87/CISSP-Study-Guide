@@ -24,4 +24,8 @@
   * E - electrical
   * F - cooking
 * Risk indicators - can provide useful information for organizational planning and a deeper understading of how organizations view risk.  Do not handle security response.
-  
+* FERPA - protects privacy information of students
+* Digital Millennium Copyright act - protects IPS from activities of their customers
+* Preservation - Ensure that informatoin related to the matter at hand is protected against alteration or deletion
+* Multitasking - handles multiple processes on a single processor by switching them using OS
+* Multi-programming - requires modifications of underlying applications
