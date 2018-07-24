@@ -45,3 +45,15 @@
   * REST - Representation State Transfer. an approach that uses HTTP protocol to access and manipulate text without keeping track of any data(or state)
   * OAUTH - open standard for authorization(not authentication) to third parties. Like when you authenticate with facebook, you can then authorize it to go off and manage your photos. Facebook could access your photos until you tell it not to anymore
 * Primary storage - ram is primary storage. secondary storage is hdds, solid state, and optical drives
+Whoa.. just got 11/24 on a practice test... 
+* SIEM helps provide automated analysis and monitoring of logs and security events.  not syslog.
+* Requiring authentication provides accountability be ensuring actions taken can be tracked to a specific user
+* PAT - port address translation allows a network to use any IP address set inside without causing a conclict with the public internet
+* LT2p navtively supports non-IP protocols.  PPTP, L2F, and IPSec are all IP protocols
+* Parrallel test - team activates the disaster recovery site for testing but primary site remains untouched
+* 3DES can use 2 or 3 keys
+* RFC 1918 is range of 10.0.0.0 - 10.255.255.255
+* passive monitoring is : network tap or span port.  active monitoring relies on sythetic or previously recorded traffic.
+* RSA requiresly only two keys for each user... fucking duh. even if you have 10,000,000 people, they each just need a public and private key to be able to talk to everyone.  they go and get the other persons public key before sending messages.
+
+
