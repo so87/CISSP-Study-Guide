@@ -41,5 +41,5 @@ All domains 10-15% of score <br />
 [Flash cards](https://quizlet.com/2519918/cissp-practice-flash-cards/) <br />
 [Pratice Tests](https://www.amazon.com/CISSP-Official-ISC-Practice-Tests/dp/1119475929/ref=mt_paperback?_encoding=UTF8&me=&qid=1532002117) <br />
 [Review on Exam](https://www.youtube.com/watch?v=eLYbFtS7G9E) <br />
-[Learning how to learn.](https://www.google.com/aclk?sa=L&ai=DChcSEwjJqOC4wKPcAhUKqGkKHSyRBY4YABABGgJpcQ&sig=AOD64_0f8CoxujtRp2ubns9y5byhXZFkHQ&ctype=5&q=&ved=0ahUKEwiB89u4wKPcAhUQQ6wKHcP6BRIQwzwICQ&adurl=) If you are going to spend 200 hours learning you might as well take 10 to do it right? <br />
+[Learning how to learn.](https://www.amazon.com/Unlimited-Memory-Advanced-Strategies-Productive-ebook/dp/B00I3QS1XQ/ref=sr_1_3_sspa?s=books&ie=UTF8&qid=1540590777&sr=1-3-spons&keywords=learning+how+to+learn&psc=1) If you are going to spend 200 hours learning you might as well take 10 to do it right? <br />
 [Tricky definitions I've missed on practice tests](https://github.com/so87/CISSP-Study-Guide/blob/master/tricky%20definitions.md)<br />
