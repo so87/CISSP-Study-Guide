@@ -62,7 +62,7 @@ Organizations operate in environments where laws, regulations, and compliance re
 * Criminal Law: punished by jail, fine, or death
 * Common Law: jury makes decision. then judge decides punishment
 * Civil Law: never incarcerated or executed.  Have to reimburse the plaintiff
-* Private Law: deals with relations between individuals and institutions. Par of civil law
+* Private Law: deals with relations between individuals and institutions. Part of civil law
 * Federal Law: body of law consisting of a constitution, enacted laws, and the court decisions pertaining to them
 
 ### Understand, adhere to, and promote professional ethics
