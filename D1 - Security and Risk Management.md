@@ -61,7 +61,7 @@ Organizations operate in environments where laws, regulations, and compliance re
 ##### Difference between Criminal Law/Common Law/Private law/Civil Law/Federal Law/
 * Criminal Law: punished by jail, fine, or death
 * Common Law: jury makes decision. then judge decides punishment
-* Civil Law: never incarcerated or executed.  Have to reimburse the plaintiff
+* Civil Law: a.k.a Tort Law: Non-criminal. Injured party seeks to be 'made whole' through financial means. ex. Money for pain, suffering 
 * Private Law: deals with relations between individuals and institutions. Part of civil law
 * Federal Law: body of law consisting of a constitution, enacted laws, and the court decisions pertaining to them
 
